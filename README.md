@@ -1,4 +1,6 @@
-# amazon-clone
-This is my first Git Repository.
-<br>
-Author: Kavya Agrawal
+## amazon-clone
+
+Started in early 2024.
+
+Left here as a reminder — every journey begins somewhere.
+This one will be continued, but better.
